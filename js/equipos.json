@@ -1,0 +1,39 @@
+[
+    {
+        "nombre": "Alianza Lima",
+        "anioFundacion": 1901,
+        "posicion": 5,
+        "escudo": "../img/alianza-lima.png"
+    },
+    {
+        "nombre": "Universitario de Deportes",
+        "anioFundacion": 1924,
+        "posicion": 2,
+        "escudo": "../img/universitario.png"
+    },
+    {
+        "nombre": "Sporting Cristal",
+        "anioFundacion": 1955,
+        "posicion": 1,
+        "escudo": "../img/sporting-cristal.png"
+    },
+    {
+        "nombre": "FBC Melgar",
+        "anioFundacion": 1915,
+        "posicion": 9,
+        "escudo": "../img/melgar.png"
+    },
+    {
+        "nombre": "Deportivo Municipal",
+        "anioFundacion": 1935,
+        "posicion": 13,
+        "escudo": "../img/deportivo-municipal.png"
+    },
+    {
+        "nombre": "Sport Boys",
+        "anioFundacion": 1927,
+        "posicion": 18,
+        "escudo": "../img/sport-boys.png"
+    }
+]
+       
